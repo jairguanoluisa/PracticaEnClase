@@ -12,8 +12,8 @@ public class Curso {
 
     //atributos
     public String nombreCurso;
-    public byte codigo;
-    public String listaEstudiantes;
+    public int codigo;
+    public Estudiantes[] estudiantesInscritos;
 
     //metodos
     public void agregarEstudiante() {

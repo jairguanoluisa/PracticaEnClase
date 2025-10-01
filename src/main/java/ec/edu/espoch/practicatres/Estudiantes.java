@@ -8,11 +8,11 @@ package ec.edu.espoch.practicatres;
  *
  * @author USUARIO
  */
-public class Estudiante {
+public class Estudiantes {
 
     //atributos
     public String nombre;
-    public byte id;
+    public int id;
     public float promedio;
 
     //metodos
